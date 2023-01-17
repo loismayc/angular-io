@@ -3,9 +3,9 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\product-list",
-    "\\src\\app\\top-bar"
+    "\\src\\app\\product-alerts",
+    "\\src\\app\\product-details"
   ],
-  "SelectedNode": "\\src\\app\\product-list\\product-list.component.ts",
+  "SelectedNode": "\\src\\app\\app.module.ts",
   "PreviewInSolutionExplorer": false
 }
